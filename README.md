@@ -74,8 +74,6 @@ La parola a sinistra (in maiuscolo) è quella che l'app cercherà nella causale.
 ## 🔒 Privacy First
 L'app gira interamente in locale (su `localhost`) sul tuo PC. I tuoi dati finanziari, le tue transazioni e i tuoi saldi **non lasciano mai la tua macchina** e non vengono inviati a nessun server esterno. 
 
-*(Nota per GitHub: il file `.gitignore` è già configurato per NON caricare mai i tuoi file Excel personali online se decidi di fare un fork o un push su questo progetto).*
-
 ---
 
 ## 📜 Licenza
